@@ -1,18 +1,18 @@
 ## Hi there 👋
 
 ## Frontend
--HTML
--CSS
--JavaScript
--React
+- HTML
+- CSS
+- JavaScript
+- React
 
 ## Backend
--PHP
+- PHP
 
 ## Tools
--Git
--GitHub
--Termux
+- Git
+- GitHub
+- Termux
 
 <!--
 **lanlanwi/Lanlanwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

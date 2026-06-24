@@ -1,15 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-## Frontend
+### Frontend
 - HTML
 - CSS
 - JavaScript
 - React
 
-## Backend
+### Backend
 - PHP
 
-## Tools
+### Tools
 - Git
 - GitHub
 - Termux

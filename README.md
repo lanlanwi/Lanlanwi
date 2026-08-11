@@ -3,7 +3,9 @@
 ### Frontend
 - HTML
 - CSS
+- SCSS
 - JavaScript
+- TypeScript
 - React
 
 ### Backend

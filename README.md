@@ -7,6 +7,7 @@
 - JavaScript
 - TypeScript
 - React
+- React Router
 
 ### Backend
 - PHP
